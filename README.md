@@ -10,7 +10,9 @@ The application consists of the following screens:
 
 - Blog Home Page 
 - Link in each post that leads to a "see more" screen
+- On every "See More" page, there is comments related to the post
 - Button that comeback to Home Page
+
 
 ![image](https://github.com/GabFerreira06/Compass-Challenge/assets/127318612/79ec9740-b003-493b-aae2-035bbe428405)
 ![image](https://github.com/GabFerreira06/Compass-Challenge/assets/127318612/152c9d23-8274-4dd9-a596-1392a3c54184)
