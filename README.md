@@ -2,7 +2,7 @@
 # Challenge I
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-This project is the First Compass Challenge, which is a web application developed using Typescript and CSS. The main goal is to challenge our knowledge with this first contact.
+This project is the First Compass Challenge, which is a web application developed using Typescript and CSS. The main goal is to challenge our knowledge and creativity with this first contact.
 
 ## Features
 
